@@ -1,0 +1,16 @@
+There are two main parts concerning what GitHub brings for research:
+-	Citable code for academic software
+Creation of a Digital Object Identifier (DOI) used to uniquely identify objects, standardized by the International Organization for Standardization for repositories on GitHub.
+Avoid plagiarism and gives credit to the original researcher, who gain citation through posting codes on GitHub.
+-	Academic accounts on GitHub
+More freedom and possibilities, having private repositories, group repositories.
+So interesting for research groups and also keep research private until publication to avoid someone to steal content.
+Keeping the advantages of GitHub and being adapted to research.
+Check list:
+-	Put references for packages, functions, publications
+-	Respect common manners of coding like putting useful comment or respecting indentation
+-	Put our name and institution to personal code since we can be citated.
+-	Share our data if possible for replication purposes
+-	A README file for further explanation, context, abstract etc…
+-	Put a way to contact us and all contributors
+-	Give credit to contributors for the parts they contributed to
